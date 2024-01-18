@@ -3,7 +3,6 @@
   "extends": [
     "config:recommended",
     "docker:enableMajor",
-    ":customManagers",
     ":packageRules",
     ":disableRateLimiting",
     ":dependencyDashboard",
